@@ -1,5 +1,7 @@
 # 🌌 Interactive ML & Software Engineering Portfolio
 
+🌐 **Live Website**: [portfolio-rcr1.onrender.com](https://portfolio-rcr1.onrender.com/)
+
 Welcome to my portfolio! This project is a modern, high-performance, and interactive portfolio designed to showcase my skills as a **Computer Science Engineering Graduate** specializing in Machine Learning, Data Engineering, and Full-Stack Development.
 
 It has been upgraded from a static webpage into a responsive, full-stack application featuring a **Python FastAPI backend** serving a live machine learning classifier, a data-logging terminal, and premium frontend visual effects.
